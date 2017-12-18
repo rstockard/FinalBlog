@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Themes</title>
+    <link>/</link>
+    <description>Recent content on Hugo Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright (c) 2008 - 2014, all rights reserved.</copyright>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
+Setup Some fun facts about Hugo:
+ Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+    </item>
+    
+    <item>
+      <title>Scatterplots!</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>SetupFirst, let’s set up some randomized data points:
+x&amp;lt;-rnorm(100,5,2)y&amp;lt;-rnorm(100,2*x+1,2)x## [1] 1.9951577 3.7129953 4.8892110 7.5856032 5.9110477 5.6644070 3.3218103## [8] 4.9683440 3.9050499 1.1876681 8.0696114 2.3810384 4.1181104 2.4496736## [15] 4.3136350 6.2273716 4.6023722 6.8441002 3.4023522 7.2928970 2.7755873## [22] 2.5967646 1.4895075 3.1488109 5.6586452 5.8212847 4.2993617 4.8872271## [29] 2.2072894 4.4674065 3.2126247 5.4090270 5.4767930 8.0296732 6.3070819## [36] 0.9169346 7.7994130 4.9393353 5.9020641 7.1487245 4.7495561 3.2283440## [43] 4.6512102 2.5648479 1.</description>
+    </item>
+    
+  </channel>
+</rss>
